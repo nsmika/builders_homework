@@ -1,4 +1,3 @@
-/api/target
-/db/target
-/service/target
-/target
+api/target
+db/target
+service/target
